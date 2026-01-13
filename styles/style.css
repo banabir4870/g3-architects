@@ -211,6 +211,16 @@ main>section{
     filter: grayscale(100%);
 }
 
+
+/* footer style */
+footer{
+    margin-top: 169px;
+    padding: 10px;
+    text-align: center;
+    background-color: #FFF4E7;
+    border-radius: 8px;
+}
+
 /* responsive media query */
 @media screen and (max-width: 576px) {
     .navbar, .nav-links, .features{
